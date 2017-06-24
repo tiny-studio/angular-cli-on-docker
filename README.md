@@ -1,4 +1,4 @@
-# Angular Cli on Docker (English)
+# Angular CLI on Docker (English)
 
 ## Install
 1. Clone files from [GitHub](https://github.com/tiny-studio/angular-cli-on-docker).
@@ -42,7 +42,7 @@ For example, Run below to generate HeroDetail component.
 docker-compose run cli ng generate component HeroDetail
 ```
 
-# Angular Cli on Docker (日本語)
+# Angular CLI on Docker (日本語)
 
 ## インストール
 1. [GitHub](https://github.com/tiny-studio/angular-cli-on-docker)からファイルをクローンします。
