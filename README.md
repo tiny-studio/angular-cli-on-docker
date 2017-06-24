@@ -12,15 +12,15 @@ Nothing to do, but optionaly, you can change port by editing `.env` File.
 PORT=4200
 ```
 
-## Create
+## ne new
 
 Run `docker-compose run cli ng new  -dir=. <APP_NAME>` to creates  a new Angular app named by `<APP_NAME>` in `app` directory.
 
-## Serve
+## ng serve
 
 Run `docker-compose up -d` to Builds and serves your app, rebuilding on file changes.
 
-## Other commands
+## ng xxxx
 
 Try to run `docker-compose run cli ng help`.
 
@@ -56,15 +56,15 @@ docker-compose run cli ng generate component HeroDetail
 PORT=4200
 ```
 
-## 生成
+## ng new
 
 `docker-compose run cli ng new  -dir=. <APP_NAME>`コマンドを実行すると、`app`ディレクトリの中に`<APP_NAME>`によって指定した新しい Angular アプリを生成できます
 
-## サーバ起動
+## ng serve
 
 `docker-compose up -d`コマンドを実行すると、アプリがビルドされ、使用可能になります。また、ファイルの変更の都度、ビルドは再実行されます。
 
-## その他のコマンド
+## ng xxxx
 
 `docker-compose run cli ng help`コマンドを実行してみてください。
 
